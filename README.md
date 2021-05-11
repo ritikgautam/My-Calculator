@@ -1,3 +1,3 @@
 # My-Calculator
-A basic Calcultor through which we can calculate Addition, Subtraction, Multiplication and division between numbers.
+A basic user friendly Calcultor through which we can calculate Addition, Subtraction, Multiplication, Modulus and Division between numbers.
 https://ritikgautam.github.io/My-Calculator/
